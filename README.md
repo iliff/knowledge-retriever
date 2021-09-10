@@ -1,4 +1,4 @@
-# Knowledge Retrieval Framework using T5 and Bert
+# Knowledge Retrieval Framework for the Learning Partner using T5 and Bert
 
 This github has all the pieces for creating a knowledge retrieval and dialog system using a free text corpus.
 
