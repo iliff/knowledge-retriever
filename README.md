@@ -16,8 +16,7 @@ along.
 Code is under models/filter.py.
 
 ### T5
-This portion has been taken from this github :- https://github.com/patil-suraj/question_generation
-Scraped slack data was pre-processed and used for finetuning. And then QA task was used to generate question answer pairs.
+This model can be used to generate questions from context-answer pairs.
 
 ### Retriever/Reader Model
 The retriever model is responsible for finding the best documents to answer a given question.
